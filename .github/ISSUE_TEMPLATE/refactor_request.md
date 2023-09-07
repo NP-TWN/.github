@@ -8,14 +8,14 @@ projeft: 'app'
 
 ---
 
-## ✏️ Description: `(required)`
+## ✏️ What is the background? `(required)`
 - Provide a background description of the refactoring motivation and expectations.
 
-## 💥 Impact: `(required)`
+## 💥 What is the impact and scope? `(required)`
 - Explain the scope and potential impact of the refactoring.
 
-## ℹ️ Additional Information `(optional)`:
+## 🔗 Additional information & references `(optional)`:
 - Include any other relevant information about the problem or possible alternative solutions here.
 
-## 🙋 Requestor: `(required)`
-- Mention the name of the requestor for reference.
+## 🙋‍♂️ Requestor: `(required)`
+- Insert name of the person making the request.

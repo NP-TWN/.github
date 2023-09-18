@@ -17,6 +17,9 @@ assignees: ''
 
 ## Is there PII/Confidential data inside this data mart `(required)`
 
+## Column List
+- List the column names
+
 ## 🔗 Additional information & references `(optional)`:
 
 ## 🙋‍♂️ Requestor: `(required)`

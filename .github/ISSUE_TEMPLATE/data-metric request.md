@@ -1,5 +1,5 @@
 ---
-name: data metric request
+name: Data metric request
 about: Create a metric to understand business
 title: 'metric/'
 labels: 'Type: metric'

@@ -1,5 +1,5 @@
 ---
-name: biz planning with data analytic
+name: Biz planning with data analytic
 about: Initial a business plan to drive data research and development
 title: 'biz_ds_plan/'
 labels: 'Type: biz_ds_plan'

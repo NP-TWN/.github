@@ -1,5 +1,5 @@
 ---
-name: data mart of data lake request
+name: Data mart of data lake request
 about: Create a metric to understand business
 title: 'datalake/datamart'
 labels: 'Type: datalake'

@@ -22,5 +22,18 @@ assignees: ''
 ## 🔗 References `(optional)`:
 - Include links to any related documents, screenshots, or other resources that may assist in understanding or resolving the issue.
 
+## 👾 OS version / APP version `(optional)`:
+- Provide info about the versions i.e. OS: ios 16.4.1 / app: 2.1.1
+
 ## 🙋‍♂️ Bug Reporter: `(required)`
 - Insert name of issue reporter for contact and clarification purposes.
+
+***
+
+### ☀️☀️☀️ Priority label `(reminder)`:
+
+Consider questions like: How many users are impacted? Does the app crash? Is the user flow incorrect?
+
+- `Priority: high`: Impacts >50% of users AND core functions are not useable i.e. login or payment
+- `Priorty: medium`: Either impacts >50% of users OR core functions not working
+- `Priority: low`: Does not impact someone's ability to use the product. 

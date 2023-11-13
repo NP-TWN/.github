@@ -10,6 +10,7 @@ assignees: ''
 # 🐞 Background `(required)`
 - What is the problem? 
 - What app version? i.e. OS: ios 16.4.1 / app: 2.1.1
+
 ### 🔗 References `(optional)`:
 - Add links, screenshots or documentation to help understand the issue
 

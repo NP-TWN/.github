@@ -8,14 +8,19 @@ projeft: 'app'
 
 ---
 
-## ✏️ What is the background? `(required)`
-- Provide a background description of the refactoring motivation and expectations.
+# ✏️ Background? `(required)`
+- What problem are you trying to solve?
 
-## 💥 What is the impact and scope? `(required)`
-- Explain the scope and potential impact of the refactoring.
+### 🔗 Additional information `(optional)`:
+- Add links to any external papers
 
-## 🔗 Additional information & references `(optional)`:
-- Include any other relevant information about the problem or possible alternative solutions here.
+# 🛠️ Tasks`(required)`
+- How will you solve the problem?
+- [ ] task1
+- [ ] task2
 
-## 🙋‍♂️ Requestor: `(required)`
-- Insert name of the person making the request.
+# 👀 Result `(required)`
+- What is the impact of this change?
+
+# 🙋‍♂️ Requestor: `(required)`
+- Add name of the person making the request.

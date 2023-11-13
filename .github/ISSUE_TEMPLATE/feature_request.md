@@ -7,16 +7,19 @@ assignees: ''
 
 ---
 
-## 💡 What is the feature? `(required)`
-- What problem are you trying to solve? 
-- What are the requirements or goals? 
-- Provide a brief and crystal-clear explanation of the feature you're interested in.
+# 💡 Background `(required)`
+- What problem are you trying to solve?
 
-## 🛠️ What is the suggested solution `(required)`
-- Describe the ideal solution you have in mind. Clearly articulate what you want to achieve.
+### 🔗 Additional info `(optional)`:
+- Add links to any external papers
 
-## 🔗 Additional information & references `(optional)`:
-- Include any supplementary details about the issue or alternative solutions here.
+# 🛠️ Tasks`(required)`
+- How will you solve the problem?
+- [ ] task1
+- [ ] task2
 
-## 🙋‍♂️ Requestor: `(required)`
-- Insert name of the person making the request.
+# 👀 Result `(required)`
+- What will you achieve?
+
+# 🙋‍♂️ Requestor: `(required)`
+- Add name of the person making the request.

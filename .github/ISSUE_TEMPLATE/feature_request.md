@@ -7,19 +7,19 @@ assignees: ''
 
 ---
 
-# 💡 Background `(required)`
+## Background `(required)`
 - What problem are you trying to solve?
 
-### 🔗 Additional info `(optional)`:
+### Additional info `(optional)`:
 - Add links to any external papers
 
-# 🛠️ Tasks`(required)`
+## Tasks`(required)`
 - How will you solve the problem?
 - [ ] task1
 - [ ] task2
 
-# 👀 Result `(required)`
+## Result `(required)`
 - What will you achieve?
 
-# 🙋‍♂️ Requestor: `(required)`
+## Requestor: `(required)`
 - Add name of the person making the request.

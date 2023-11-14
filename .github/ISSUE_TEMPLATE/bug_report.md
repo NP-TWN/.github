@@ -7,20 +7,20 @@ assignees: ''
 
 ---
 
-# 🐞 Background `(required)`
+## Background `(required)`
 - What is the problem? 
 - What app version? i.e. OS: ios 16.4.1 / app: 2.1.1
 
-### 🔗 References `(optional)`:
+### References `(optional)`:
 - Add links, screenshots or documentation to help understand the issue
 
-# 🤔 Expected behaviour `(required)`
+## Expected behaviour `(required)`
 - What is the before & after behaviour?
 
-# 🔄 Steps to reproduce `(required)`
+## Steps to reproduce `(required)`
 - How did the problem happen?
 
-# 🙋‍♂️ Bug Reporter: `(required)`
+## Bug Reporter: `(required)`
 - Insert name of issue reporter for contact and clarification purposes.
 
 ***

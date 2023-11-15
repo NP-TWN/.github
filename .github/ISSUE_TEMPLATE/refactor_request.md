@@ -8,13 +8,11 @@ projeft: 'app'
 
 ---
 
-## Background? `(required)`
+## Background `(required)`
 - What problem are you trying to solve?
-
-### Additional information `(optional)`:
 - Add links to any external papers
 
-## Tasks`(required)`
+## Tasks `(required)`
 - How will you solve the problem?
 - [ ] task1
 - [ ] task2

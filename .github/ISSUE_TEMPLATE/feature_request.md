@@ -9,11 +9,9 @@ assignees: ''
 
 ## Background `(required)`
 - What problem are you trying to solve?
-
-### Additional info `(optional)`:
 - Add links to any external papers
 
-## Tasks`(required)`
+## Tasks `(required)`
 - How will you solve the problem?
 - [ ] task1
 - [ ] task2

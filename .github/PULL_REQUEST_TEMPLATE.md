@@ -1,7 +1,7 @@
 ## Background `(required)` 
-- Add any github issue link or context or use case
+- Add github issue link
 
-## Change summary `(required)` 
+## Change Summary `(optional)` 
 - What did you add or modify?
 
 ## Test & Verification `(required)` 
@@ -10,8 +10,6 @@
   - [ ] I removed all erroneous console logs, debuggers or unused code
   - [ ] I followed SOLID principles
 
-### Additional info `(optional)`
-- Add any before/after screenshots
-
-### Message to reviewer `(optional)`
-- Add any comments
+## Other Notes `(optional)`
+- Add any comments, before/after screenshots
+- What level should be reviewed (structrue/naming/robustness/strability/db design/ model design)

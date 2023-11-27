@@ -16,14 +16,14 @@ jobs:
         uses: pixta-dev/repository-mirroring-action@v1
         with:
           target_repo_url:
-            ssh://git-codecommit.ap-southeast-1.amazonaws.com/v1/repos/daisy-smdl
+            ssh://git-codecommit.ap-northeast-1.amazonaws.com/v1/repos/daisy-smdl
           ssh_private_key:
             ${{ secrets.CODECOMMIT_SSH_PRIVATE_KEY }}
           ssh_username:
             ${{ secrets.CODECOMMIT_SSH_PRIVATE_KEY_ID }}
       - name: Trigger AWS CodePipeline
         env:
-          AWS_DEFAULT_REGION: 'ap-southeast-1'
+          AWS_DEFAULT_REGION: 'ap-northeast-1'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_PIPELINE_ACCESS_KEY_PROD }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_PIPELINE_SECRET_KEY_PROD }}
         run: aws codepipeline start-pipeline-execution --name prod-daisy-smdl-deploy-pipeline

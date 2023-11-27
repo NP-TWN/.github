@@ -16,7 +16,7 @@ jobs:
         uses: pixta-dev/repository-mirroring-action@v1
         with:
           target_repo_url:
-            ssh://git-codecommit.ap-northeast-1.amazonaws.com/v1/repos/daisy-smdl
+            ssh://git-codecommit.ap-northeast-1.amazonaws.com/v1/repos/daisy-nptl
           ssh_private_key:
             ${{ secrets.CODECOMMIT_SSH_PRIVATE_KEY }}
           ssh_username:
@@ -26,4 +26,4 @@ jobs:
           AWS_DEFAULT_REGION: 'ap-northeast-1'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_PIPELINE_ACCESS_KEY_CT }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_PIPELINE_SECRET_KEY_CT }}
-        run: aws codepipeline start-pipeline-execution --name ct-daisy-smdl-deploy-pipeline
+        run: aws codepipeline start-pipeline-execution --name ct-daisy-nptl-deploy-pipeline
